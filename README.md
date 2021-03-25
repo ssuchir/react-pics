@@ -2,7 +2,7 @@
 
 Built with Unspash API
 
-ssuchir.github.io/react-pics/
+View app here:  ssuchir.github.io/react-pics/
 
 
 
